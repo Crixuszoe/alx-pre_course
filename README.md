@@ -1,2 +1,1 @@
-My first readme
-More files have been added to the master branch
+I am enjoying the process, this is just the beginning.
